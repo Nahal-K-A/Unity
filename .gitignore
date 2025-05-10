@@ -1,0 +1,20 @@
+# User-specific files
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# OS or IDE files
+.DS_Store
+*.swp
+*.sln
+*.csproj
+
+# User settings
+UserSettings/
+.vscode/
+*.userprefs
