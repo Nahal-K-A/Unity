@@ -15,10 +15,12 @@ Skills learned:
 Shooting projectiles
 Collision detection
 Event handling
+Instantiation
 
-3) Prototype 3: Platformer
+4) Prototype 3: Platformer
 A classic 2D platformer prototype, focusing on creating a small level with player movement, jumping, and basic platforming mechanics.
 Skills learned:
 Platformer mechanics (jumping, walking)
 Collisions and triggers
 Animation integration
+Particle and Sound effects
