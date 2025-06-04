@@ -1,0 +1,24 @@
+Prototype 5/[Ll]ibrary/
+Prototype 5/[Tt]emp/
+Prototype 5/[Oo]bj/
+Prototype 5/[Bb]uild/
+Prototype 5/[Bb]uilds/
+Prototype 5/[Mm]emoryCaptures/
+Prototype 5/[Ss]ysinfo.txt
+
+Prototype 5/*.csproj
+Prototype 5/*.unityproj
+Prototype 5/*.sln
+Prototype 5/*.suo
+Prototype 5/*.tmp
+Prototype 5/*.user
+Prototype 5/*.userprefs
+Prototype 5/*.pidb
+Prototype 5/*.booproj
+Prototype 5/*.svd
+
+Prototype 5/*.log
+Prototype 5/*.dmp
+
+.DS_Store
+Thumbs.db
